@@ -95,6 +95,10 @@ GitHub Profile – Alejandro Baldeón Espinoza
   <a href="https://github.com/mmrafique/PA08-Juego_de_carreras"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mmrafique&repo=PA08-Juego_de_carreras&theme=radical"/></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Alebald2025/IceClimber_Build"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alebald2025&repo=IceClimber_Build&theme=radical"/></a>
+</p>
+
 <details>
   <summary>📑 Detailed Table</summary>
 
