@@ -12,7 +12,7 @@ GitHub Profile – Alejandro Baldeón Espinoza
 </p>
 <!-- ===== Quick Badges ===== -->
 <p align="center">
-  <a href="mailto:josiasbaldeon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anasabid607%40gmail.com-FF3B30?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:josiasbaldeon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-josiasbaldeon%40gmail.com-FF3B30?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="tel:+34631453902"><img alt="Phone" src="https://img.shields.io/badge/Phone-%2B34%20663%20607%20722-00C853?style=for-the-badge&logo=phone&logoColor=white"></a>
   <a href="https://github.com/Alebald2025"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Alebald2025-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Barcelona-08023-FFB300?style=for-the-badge&logo=google-maps&logoColor=white">
